@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Football :football:
+2. Baseball :baseball:
+3. Baseball :basketball:
